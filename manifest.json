@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-19T01:38:00+04:00",
+  "releaseTag": "v2026.11.19",
+  "apps": {
+    "az.royalwares.royaldiet": {
+      "appName": "RoyalDiet Balance",
+      "versionCode": 8,
+      "versionName": "1.3.2",
+      "downloadUrl": "https://github.com/RemikhanovShamil/royalwares-releases/releases/download/v2026.11.19/RoyalDiet-Balance-1.3.2-release.apk",
+      "sha256": "5ba475fe70d800706f8c8dec67a1aefdda66a0664bf55e0183570122c1789ec3",
+      "sizeBytes": 2835469,
+      "releaseNotes": "Soft Graphite minimal tətbiqdaxili yeniləmə sistemi (canlı progress bar) əlavə edildi.",
+      "isMandatory": false
+    },
+    "com.royalwaresapp.royalnote": {
+      "appName": "RoyalNotes PRO",
+      "versionCode": 8,
+      "versionName": "1.6.0",
+      "downloadUrl": "https://github.com/RemikhanovShamil/royalwares-releases/releases/download/v2026.11.19/RoyalNotes-1.6.0-release.apk",
+      "sha256": "1bcddc80ec6a5537b9733a1d954bddffb3b0eef0adc3649d8cc612ff16095512",
+      "sizeBytes": 17340294,
+      "releaseNotes": "RoyalUpdater v1.1.0 Soft Graphite minimal yeniləmə pəncərəsi və canlı yükləmə göstəricisi inteqrasiya edildi.",
+      "isMandatory": false
+    },
+    "com.royalwaresapp.royaltubepro": {
+      "appName": "RoyalTube PRO",
+      "versionCode": 13,
+      "versionName": "1.3.8",
+      "downloadUrl": "https://github.com/RemikhanovShamil/royalwares-releases/releases/download/v2026.11.19/RoyalTube_PRO-1.3.8-release.apk",
+      "sha256": "908e7fda9a871d41a30679ba4f4e921c0c47059a592685bbe181c6cc83abafb3",
+      "sizeBytes": 219024314,
+      "releaseNotes": "Yenilənmiş RoyalUpdater v1.1.0: Soft Graphite UI, tokensiz manifest yoxlaması və canlı progress bar.",
+      "isMandatory": false
+    },
+    "com.royalwares.pillreminder": {
+      "appName": "RoyalWares Xatırladıcı Pro",
+      "versionCode": 13,
+      "versionName": "1.8.0",
+      "downloadUrl": "https://github.com/RemikhanovShamil/royalwares-releases/releases/download/v2026.11.19/RoyalReminder-1.8.0-release.apk",
+      "sha256": "b7f7e9949e834150ae8af81197a6ab1bf0bc3ea64172bb9f27cb0ad4069269c8",
+      "sizeBytes": 12503783,
+      "releaseNotes": "RoyalUpdater v1.1.0 Soft Graphite minimal yeniləmə kartı və canlı progress bar əlavə edildi.",
+      "isMandatory": false
+    },
+    "com.royalwaresapp.royalfilemanager": {
+      "appName": "RoyalFile Manager PRO",
+      "versionCode": 12,
+      "versionName": "1.10.0",
+      "downloadUrl": "https://github.com/RemikhanovShamil/royalwares-releases/releases/download/v2026.11.19/RoyalFileManager-1.10.0-release.apk",
+      "sha256": "d336ed4e3c0aadebdbc2dd51b1422629e37b3afb319e1e8ca19f9423df291e42",
+      "sizeBytes": 2304123,
+      "releaseNotes": "RoyalUpdater v1.1.0 Soft Graphite yeniləmə mərkəzi, API 26+ sənəd oxuma düzəlişi və CI inteqrasiyası.",
+      "isMandatory": false
+    }
+  }
+}
